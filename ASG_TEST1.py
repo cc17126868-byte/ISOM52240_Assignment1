@@ -212,4 +212,4 @@ if __name__ == "__main__":
         jupyter nbconvert --to script <你的学号>_asg.ipynb
         
         # 运行Streamlit
-        streamlit run <你的学号>_asg.py
+        streamlit run ASG_TEST1.py
